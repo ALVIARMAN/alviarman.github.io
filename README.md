@@ -24,7 +24,7 @@ I’m currently developing a **graph representation app** that helps visualize a
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvi%20Arman%20Chowdhury-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alvi-arman-6688772b8/)
+
 
 ---
 
